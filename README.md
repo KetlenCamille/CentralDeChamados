@@ -1,5 +1,5 @@
 # CentralDeChamados
-Este projeto se encontra no GitHub <b>jeffsantos2/CentralChamados<b>
+Este projeto se encontra no GitHub <b>jeffsantos2/CentralChamados</b>
 
 Integrantes: Andrei Nalevaiko, Jefferson dos Santos, Ketlen Rieper e Felipe Lima.
 
