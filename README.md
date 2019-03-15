@@ -4,7 +4,7 @@ Este projeto se encontra no GitHub <b>jeffsantos2/CentralChamados</b><br>
 Integrantes: Andrei Nalevaiko, Jefferson dos Santos, Ketlen Rieper e Felipe Lima. <br>
 
 ●	Funcionalidades do Projeto <br>
-O projeto será uma central de chamados voltado para web, a partir dos seguintes requisitos:<br><br>
+O projeto será uma central de chamados voltado para web, a partir dos seguintes requisitos:<br>
 
 O sistema deverá permitir o cadastro, alteração, exclusão e listagem do Usuário.<br>
 O sistema deverá permitir o cadastro, alteração, exclusão e listagem do Tecnico.<br>
