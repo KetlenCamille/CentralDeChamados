@@ -1,17 +1,17 @@
 # CentralDeChamados
-Este projeto se encontra no GitHub <b>jeffsantos2/CentralChamados</b>
+Este projeto se encontra no GitHub <b>jeffsantos2/CentralChamados</b><br>
 
-Integrantes: Andrei Nalevaiko, Jefferson dos Santos, Ketlen Rieper e Felipe Lima.
+Integrantes: Andrei Nalevaiko, Jefferson dos Santos, Ketlen Rieper e Felipe Lima. <br>
 
-●	Funcionalidades do Projeto 
-O projeto será uma central de chamados voltado para web, a partir dos seguintes requisitos:
+●	Funcionalidades do Projeto <br>
+O projeto será uma central de chamados voltado para web, a partir dos seguintes requisitos:<br><br>
 
-O sistema deverá permitir o cadastro, alteração, exclusão e listagem do Usuário.
-O sistema deverá permitir o cadastro, alteração, exclusão e listagem do Tecnico.
-O sistema deverá permitir o cadastro, alteração, exclusão e listagem do Status.
-O sistema deverá permitir o cadastro, alteração, exclusão e listagem de Unidade.
-O sistema deverá permitir o cadastro, alteração, exclusão e listagem do Chamado.
-O sistema deverá permitir que o usuário efetue o login e permita abrir um Chamado.
-O sistema deverá permitir que apenas os Tecnicos possam assumir um Chamado.
-O sistema deverá permitir que um “super Usuario” (Tecnico Admin) possa designar qual técnico assumirá o Chamado.
-O Usuario poderá cancelar um Chamado aberto por si próprio.
+O sistema deverá permitir o cadastro, alteração, exclusão e listagem do Usuário.<br>
+O sistema deverá permitir o cadastro, alteração, exclusão e listagem do Tecnico.<br>
+O sistema deverá permitir o cadastro, alteração, exclusão e listagem do Status.<br>
+O sistema deverá permitir o cadastro, alteração, exclusão e listagem de Unidade.<br>
+O sistema deverá permitir o cadastro, alteração, exclusão e listagem do Chamado.<br>
+O sistema deverá permitir que o usuário efetue o login e permita abrir um Chamado.<br>
+O sistema deverá permitir que apenas os Tecnicos possam assumir um Chamado.<br>
+O sistema deverá permitir que um “super Usuario” (Tecnico Admin) possa designar qual técnico assumirá o Chamado.<br>
+O Usuario poderá cancelar um Chamado aberto por si próprio.<br>
